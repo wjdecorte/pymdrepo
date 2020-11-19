@@ -1,14 +1,6 @@
 """
 repository.operators.base_operator.py - Contains the base operator class
 
-@author - jwd3 (Jason DeCorte)
-
-@copyright:   Equifax. All rights reserved.
-
-@license:    Apache License 2.0
-
-@contact:    jason.decorte@equifax.com
-
 Version History:
 0.2 jwd3 02/01/2017
     Migrated select to _select to reduce redundant code

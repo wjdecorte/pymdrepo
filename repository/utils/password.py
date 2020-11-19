@@ -8,12 +8,6 @@
                   being stored in ASCII plain text format.  Implement with AES128 for
                   complete security.
 
-@author:     Jason DeCorte
-
-@copyright:  2015 Equifax. All rights reserved.
-
-@contact:    jason.decorte@equifax.com
-
 Version History
  08/31/2005| Jason DeCorte   | Rotor is deprecated as of 2.3.  Implemented a new
            |                 | encryption algorithm called p3.  It was written by an

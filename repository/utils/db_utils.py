@@ -1,14 +1,6 @@
 """
 <PATH> utils - <DESCRIPTION>
 
-@author - jwd3
-
-@copyright:  2017 Equifax. All rights reserved.
-
-@license:    Apache License 2.0
-
-@contact:    jason.decorte@equifax.com
-
 Version History:
 
 """

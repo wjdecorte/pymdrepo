@@ -1,14 +1,6 @@
 """
 repository.metadata.models.py - Contains model definitions for tables in the Metadata Repository
 
-@author - Jason DeCorte
-
-@copyright:  2016 Equifax. All rights reserved.
-
-@license:    Apache License 2.0
-
-@contact:    jason.decorte@equifax.com
-
 Version History:
 0.2 jwd3 11/10/2016 ???
     Added WorkflowConfig model

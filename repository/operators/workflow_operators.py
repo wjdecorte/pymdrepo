@@ -1,14 +1,6 @@
 """
 repository.operators.workflow_operators - Database operations for workflow related tables
 
-@author - jwd3
-
-@copyright:  2017 Equifax. All rights reserved.
-
-@license:    Apache License 2.0
-
-@contact:    jason.decorte@equifax.com
-
 Version History:
 0.1.1 jwd3 02/06/2017
     Updated get_parameter_value to use _select so connections are closed

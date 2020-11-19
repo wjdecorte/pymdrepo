@@ -1,14 +1,6 @@
 """
 repository.operators.export_operators.py - Operators used for export tables in metadata repository
 
-@author - joji varughese
-
-@copyright:  2017 Equifax. All rights reserved.
-
-@license:    Apache License 2.0
-
-@contact:    joji.varughese@equifax.com
-
 Version History:
 0.1 jxv71 2/6/2017
     Initial Version

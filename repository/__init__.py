@@ -1,14 +1,6 @@
 """
 repository/__init__.py - Repository package initialization
 
-@author - Jason DeCorte
-
-@copyright:  2016 Equifax. All rights reserved.
-
-@license:    Apache License 2.0
-
-@contact:    jason.decorte@equifax.com
-
 Version History:
 0.2 jwd3 1/11/2017
     Added check for environment variable for password file location

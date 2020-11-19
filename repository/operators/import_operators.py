@@ -1,14 +1,6 @@
 """
 repository.operators.import_operators.py - Operators used for import tables in metadata repository
 
-@author - jwd3
-
-@copyright:  2017 Equifax. All rights reserved.
-
-@license:    Apache License 2.0
-
-@contact:    jason.decorte@equifax.com
-
 Version History:
 0.2 jxv71 1/25/2017
     Updated ImportFileDownloadLogOperator.get_new_file_downloads
