@@ -1,4 +1,4 @@
-Equifax Metadata Repository (mdrepo)
+Metadata Repository (mdrepo)
 
 A collection of tables that contain the metadata used for managing our process flows for data pipelines.
 
